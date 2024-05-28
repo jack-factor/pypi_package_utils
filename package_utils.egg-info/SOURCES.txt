@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+commontools/__init__.py
+commontools/simple_format.py
+commontools/simple_request.py
+package_utils.egg-info/PKG-INFO
+package_utils.egg-info/SOURCES.txt
+package_utils.egg-info/dependency_links.txt
+package_utils.egg-info/requires.txt
+package_utils.egg-info/top_level.txt
